@@ -1,2 +1,2 @@
 # inf-schule.de
-a personal backup
+a backup for teaching material from [inf-schule.de](https://inf-schule.de)
